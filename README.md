@@ -1,0 +1,2 @@
+# fuzzy
+My first respository
